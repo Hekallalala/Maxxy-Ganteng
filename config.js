@@ -44,10 +44,10 @@ global.ppulsa2 = 'PC OWNER'
 global.psaweria = 'https://saweria.co/gilzzbotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282334703987'
-global.nomorown = '6285730794089'
-global.namebot = 'Gilzz MD'
-global.nameown = 'Gilzz Azaa'
+global.nomorbot = '6281278093983'
+global.nomorown = '6281270975930'
+global.namebot = 'Hyuga XO'
+global.nameown = 'Hekal'
 
 
 /*============== STAFF ==============*/
@@ -102,13 +102,13 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Gilzz Botz | By R Agil' //Main Watermark
-global.wm2 = 'Gilzz Tch'
-global.wm3 = 'Gilzz Tch | By Kontol'
+global.wm = 'Hyuga Botz | By R Agil' //Main Watermark
+global.wm2 = 'Hyuga Tch'
+global.wm3 = 'Hyuga Tch | By Kontol'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Gilzz Tch | ʙʏ ${global.nameown}`
-global.author = 'Gilzz MD' 
+global.titlebot = `Hyuga Tch | ʙʏ ${global.nameown}`
+global.author = 'Hyuga MD' 
 global.packname = 'Gilzz Tch'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = '03 April 2023'
@@ -126,10 +126,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Gilz Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Gilzz Tch'
+global.nameowner = 'Hyuga Xo'
 global.umurowner = '15'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285730794089'
+global.nomorowner = 'wa.me/6281270975930'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
