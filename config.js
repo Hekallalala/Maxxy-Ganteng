@@ -52,7 +52,7 @@ global.nameown = 'Hekal'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285730794089', 'Gilzz XD', 'true']
+  ['6281270975930', 'Hyuga Xo X Gilzz XD', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
