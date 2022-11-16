@@ -45,11 +45,11 @@ import moment from 'moment-timezone'
                    "title": "────────「 Trial 」" 
                  }, { 
                      "rows": [{ 
-                       "title": `Permanent! Rp5.000`, 
+                       "title": `10k/Bulan`, 
                        "description": "Masukkan bot ke dalam group tanpa batasann waktu!", 
                        "rowId": ".masuk"
                    }], 
-                     "title": "───────「 Permanent 」" 
+                     "title": "───────「 1 Bulan 」" 
                  } 
                ]
          const listMessage = {
@@ -57,8 +57,8 @@ import moment from 'moment-timezone'
 Untuk fitur bot bisa baca menu sampai selesai ya kak, dicoba coba dulu biar tau ( Ketik *.menu* )
 Silahkan hubungi owner ( Ketik *.owner* ) jika ingin menyewa bot untuk grup chat kalian
 
-➠ Sewa (Join Grup) harga 5K / Permanent dan apabila bot di kick dari grup sengaja atau tidak sengaja tidak bisa di join kan lagi (Hangus).
-➠ Pembayaran saat ini hanya tersedia via Dana.
+➠ Sewa (Join Grup) harga 10k / Bulan dan apabila bot di kick dari grup sengaja atau tidak sengaja tidak bisa di join kan lagi (Hangus).
+➠ Pembayaran saat ini hanya tersedia via Dana, Gopay, Shopeepay.
 ➠ Proses transaksi seperti pada umumnya, chat owner terlebih dahulu untuk menanyakan nomor tujuan transfer setelah itu screenshot bukti pembayaran.
 ➠ *Penting!* simpan nomor owner dan join ke dalam grup official dibawah untuk mengetahui update nomor bot terbaru apabila ter-banned.
 ➠ Bot bisa di pindah pin
